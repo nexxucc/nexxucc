@@ -1,4 +1,4 @@
-# About Me:
+# Hi, I am Vansh Jain 👋
 Currently working on App dev using Flutter.<br>A tech enthusiast, who has a particular habit of dual booting any Linux distro on my laptop every now and then ('cause why not).<br>Particularly interested in software development, as well as cybersecurity.<br>Currently persuing a Btech. degree from VIT Chennai in CSE (Specialization in AI and Robotics).<br>
 
 
