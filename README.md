@@ -1,5 +1,5 @@
 # Hi, I am Vansh Jain 👋
-Currently working on App dev using Flutter.<br>A tech enthusiast, who has a particular habit of dual booting any Linux distro on my laptop every now and then ('cause why not).<br>Particularly interested in software development, as well as cybersecurity.<br>Currently persuing a Btech. degree from VIT Chennai in CSE (Specialization in AI and Robotics).<br>
+Currently working on App dev using Flutter.<br>A tech enthusiast, who has a particular habit of dual booting any Linux distro on my laptop every now and then ('cause why not).<br>Particularly interested in software development, as well as cybersecurity.<br>Currently pursuing a Btech. degree from VIT Chennai in CSE (Specialization in AI and Robotics).<br>
 
 
 ## Socials:
@@ -21,4 +21,3 @@ Currently working on App dev using Flutter.<br>A tech enthusiast, who has a part
 ---
 [![](https://visitcount.itsvg.in/api?id=nexxucc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
